@@ -15,7 +15,12 @@
 
 ## 制作物 / デモ
 
-順次追加予定。
+### 案件スコアリングツール — [demos/job_scorer.py](demos/job_scorer.py)
+クラウドソーシングの案件を、AI/自動化キーワードと競業避止の観点で自動スコアリング・ランク付けする Python デモCLI。標準ライブラリのみで動作します。
+
+```
+python demos/job_scorer.py
+```
 
 ## お問い合わせ
 
